@@ -1,0 +1,41 @@
+<div class="card">
+                <img src="./../images/images (1).webp" alt="Layanan 1">
+                <h3>Berita 1</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
+            <!-- Card Berita 2 -->
+            <div class="card">
+                <img src="./../images/images (3).webp" alt="Layanan 1">
+                <h3>Berita 2</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
+            <!-- Card Berita 3 -->
+            <div class="card">
+                <img src="./../images/images (6).webp" alt="Layanan 1">
+                <h3>Berita 3</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
+            <!-- Card Berita 4 -->
+            <div class="card">
+                <img src="./../images/images (7).webp" alt="Layanan 1">
+                <h3>Berita 4</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
+            <!-- Card Berita 5 -->
+            <div class="card">
+                <img src="./../images/images (11).jpg" alt="Layanan 1">
+                <h3>Berita 5</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
+            <!-- Card Berita 6 -->
+            <div class="card">
+                <img src="./../images/images (4).jpg" alt="Layanan 1">
+                <h3>Berita 6</h3>
+                <p>Ringkasan berita terbaru.</p>
+                <a href="#" class="card-button">Read More</a>
+            </div>
